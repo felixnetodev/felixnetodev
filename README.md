@@ -1,6 +1,6 @@
 # Olá, sou Félix Neto 👋
 
-Designer com mais de 10 anos de experiência, agora construindo pontes entre design e código. Minha trajetória passa por **desktop publisher**, **game ui**, **edição de vídeo**, **motion design**, **branding** e **identeidade visual** — e hoje estou aprendendo HTML, CSS e JavaScript para dar vida às minhas próprias ideias no navegador.
+Designer com mais de 10 anos de experiência, agora construindo pontes entre design e código. Minha trajetória passa por **desktop publisher**, **game ui**, **edição de vídeo**, **motion design**, **branding** e **identidade visual** — e hoje estou aprendendo HTML, CSS e JavaScript para dar vida às minhas próprias ideias no navegador.
 
 Venho da sala de aula (professor por uma década) e trago isso para o código: clareza, processo e atenção ao detalhe.
 
