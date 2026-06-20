@@ -36,6 +36,10 @@ Venho da sala de aula (professor por uma década) e trago isso para o código: c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felixnetodev)
 
+
+*Designer que aprendeu a ensinar. Agora aprendendo a programar.*
+
+
 <!--
 **felixnetodev/felixnetodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
